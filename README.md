@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS PVT.LTD
 ID: CT04DS7439
 Domain: JAVA PROGRAMMING
 Duration: 4 WEEKS from AUGUST 23rd, 2024 to SEPTEMBER 23rd, 2024
-Mentor:
+Mentor: Muzammil ahmed
 
 **Overview**
 This Java program is a simple library management system with a GUI built using Swing. It allows users to add, search, check out, and return library items like books.
